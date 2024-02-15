@@ -1,0 +1,39 @@
+.heading 
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body 
+{
+    background-size: cover;
+}
+
+.div_music
+{
+    float: left;
+}
+
+.div_music_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.div_music2
+{
+    float: right;
+}
+
+.div_music2_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
